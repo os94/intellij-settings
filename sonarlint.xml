@@ -1,0 +1,14 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://sonarqube.woowa.in:8080/" />
+          <token>df9ddfcedfc8df9adfc9df9ddfc8df9edfc9df9ddfcedf9fdfccdfc8df93df9edfcfdf9fdfc8df9cdfcfdf9adfcedf9edfcbdfc9dfccdf92df9cdf9ddf9cdf9cdf9bdf9edf99dfcfdf9adf9fdf9ddfcb</token>
+          <option name="name" value="sonarQube_woowa" />
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
