@@ -11,5 +11,6 @@
     <mask>*.sql</mask>
     <mask>*.java</mask>
     <mask>*.yml</mask>
+    <mask>*.js</mask>
   </component>
 </application>
