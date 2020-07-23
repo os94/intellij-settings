@@ -1,4 +1,4 @@
-<templateSet group="other">
+<templateSet group="Custom">
   <template name="todos" value="// TODO_ohsang: $todo$ " description="adds my TODO" toReformat="false" toShortenFQNames="true">
     <variable name="todo" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -7,6 +7,12 @@
       <option name="JAVA_DECLARATION" value="true" />
       <option name="JAVA_EXPRESSION" value="true" />
       <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="tdd" value="@Test&#10;public void $NAME$() {&#10;    //Given&#10;    $END$&#10;    //When&#10;    &#10;    //Then&#10;}" description="tdd" toReformat="false" toShortenFQNames="true" useStaticImport="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
     </context>
   </template>
 </templateSet>
