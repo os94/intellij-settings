@@ -12,6 +12,7 @@
     </option>
     <rules>
       <Rule active="false" key="java:S1612" />
+      <Rule active="false" key="javascript:S905" />
     </rules>
   </component>
 </application>
