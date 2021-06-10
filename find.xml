@@ -8,12 +8,12 @@
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.js시</mask>
-    <mask>*.jsx</mask>
     <mask>*.hbs</mask>
-    <mask>*.java</mask>
     <mask>*.html</mask>
     <mask>*.sql</mask>
-    <mask>*.yml</mask>
+    <mask>*.java</mask>
+    <mask>*.jsx</mask>
     <mask>*.js</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
