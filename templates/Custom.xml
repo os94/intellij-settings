@@ -20,4 +20,10 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="logger" value="private static final org.slf4j.Logger log = org.slf4j.LoggerFactory.getLogger($CLASSNAME$.class);&#10;" description="add logger definition in class" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASSNAME" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
