@@ -11,9 +11,9 @@
     <mask>*.hbs</mask>
     <mask>*.html</mask>
     <mask>*.js</mask>
-    <mask>*.yml</mask>
     <mask>*.jsx</mask>
     <mask>*.sql</mask>
     <mask>*.java</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
