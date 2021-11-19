@@ -13,7 +13,7 @@
     <mask>*.sql</mask>
     <mask>*.xml</mask>
     <mask>*.jsx</mask>
-    <mask>*.yml</mask>
     <mask>*.java</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
