@@ -12,9 +12,9 @@
     <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>*.properties</mask>
-    <mask>*.yml</mask>
-    <mask>*.java</mask>
     <mask>*.py</mask>
     <mask>*.sql</mask>
+    <mask>*.yml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
