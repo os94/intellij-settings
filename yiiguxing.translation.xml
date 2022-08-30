@@ -1,0 +1,19 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Simple base implementation of {@link javax.servlet.Filter} which treats its config parameters ({@code init-param} entries within the {@code filter} tag in {@code web.xml}) as bean properties. &lt;p&gt;A handy superclass for any type of filter. Type conversion of config parameters is automatic, with the corresponding setter method getting invoked with the converted value. It is also possible for subclasses to specify required properties. Parameters without matching bean property setter will simply be ignored. &lt;p&gt;This filter leaves actual filtering to subclasses, which have to implement the {@link javax.servlet.FilterdoFilter} method. &lt;p&gt;This generic filter base class has no dependency on the Spring {@link org.springframework.context.ApplicationContext} concept. Filters usually don't load their own context but rather access service beans from the Spring root application context, accessible via the filter's {@link getServletContext() ServletContext} (see {@link org.springframework.web.context.support.WebApplicationContextUtils})." />
+      <item value="The &lt;code&gt;doFilter&lt;code&gt; method of the Filter is called by the container each time a requestresponse pair is passed through the chain due to a client request for a resource at the end of the chain. The FilterChain passed in to this method allows the Filter to pass on the request and response to the next entity in the chain. &lt;p&gt; A typical implementation of this method would follow the following pattern:- &lt;br&gt; 1. Examine the request&lt;br&gt; 2. Optionally wrap the request object with a custom implementation to filter content or headers for input filtering &lt;br&gt; 3. Optionally wrap the response object with a custom implementation to filter content or headers for output filtering &lt;br&gt; 4. a) &lt;strong&gt;Either&lt;strong&gt; invoke the next entity in the chain using the FilterChain object (&lt;code&gt;chain.doFilter()&lt;code&gt;), &lt;br&gt; 4. b) &lt;strong&gt;or&lt;strong&gt; not pass on the requestresponse pair to the next entity in the filter chain to block the request processing&lt;br&gt; 5. Directly set headers on the response after invocation of the next entity in the filter chain." />
+      <item value="If set, the generated constructor will be private, and an additional static 'constructor' is generated with the same argument list that wraps the real constructor. Such a static 'constructor' is primarily useful as it infers type arguments." />
+      <item value="Generates a constructor with required arguments. Required arguments are final fields and fields with constraints such as {@code @NonNull}. &lt;p&gt; Complete documentation is found at &lt;a href=&quot;https:projectlombok.orgfeaturesConstructor&quot;&gt;the project lombok features page for &amp;64;Constructor&lt;a&gt;. &lt;p&gt; Even though it is not listed, this annotation also has the {@code onConstructor} parameter. See the full documentation for more details. @see NoArgsConstructor @see AllArgsConstructor" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="4" />
+        <entry key="KOREAN" value="4" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1645690421892" />
+  </component>
+</application>
