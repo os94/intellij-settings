@@ -1,0 +1,12 @@
+<application>
+  <component name="IgnoredPluginSuggestions">
+    <option name="pluginIds">
+      <list>
+        <option value="com.haulmont.jpab" />
+        <option value="aws.toolkit" />
+        <option value="org.dynamodb4idea" />
+        <option value="com.intellij.bigdatatools" />
+      </list>
+    </option>
+  </component>
+</application>
