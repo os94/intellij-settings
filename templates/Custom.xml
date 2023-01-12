@@ -1,5 +1,5 @@
 <templateSet group="Custom">
-  <template name="todos" value="// TODO_ohsang: $todo$ " description="adds my TODO" toReformat="false" toShortenFQNames="true">
+  <template name="todos" value="// TODO-ohsang: $todo$ " description="adds my TODO" toReformat="false" toShortenFQNames="true">
     <variable name="todo" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="COMPLETION" value="true" />
