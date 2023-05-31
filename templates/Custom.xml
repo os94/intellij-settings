@@ -15,7 +15,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="cl" value="console.log($END$);" description="javascript_debugging" toReformat="false" toShortenFQNames="true">
+  <template name="cl" value="console.log($END$);" description="javascript debugging" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
@@ -24,6 +24,16 @@
     <variable name="CLASSNAME" expression="className()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="todos2" value="/**&#10; * TODO-ohsang&#10; * &lt;p&gt;&#10; * $todo$&#10; */" description="adds my TODO long" toReformat="false" toShortenFQNames="true">
+    <variable name="todo" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="COMPLETION" value="true" />
+      <option name="JAVA_COMMENT" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
 </templateSet>
