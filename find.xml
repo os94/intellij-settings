@@ -16,8 +16,8 @@
     <mask>*.sql</mask>
     <mask>*.gradle</mask>
     <mask>*.groovy</mask>
-    <mask>*.yml</mask>
     <mask>*.java</mask>
     <mask>*.http</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
