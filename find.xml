@@ -18,7 +18,7 @@
     <mask>*.groovy</mask>
     <mask>*.http</mask>
     <mask>*.yml</mask>
-    <mask>*.java</mask>
     <mask>*.kts</mask>
+    <mask>*.java</mask>
   </component>
 </application>
