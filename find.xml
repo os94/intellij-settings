@@ -17,9 +17,9 @@
     <mask>*.gradle</mask>
     <mask>*.groovy</mask>
     <mask>*.http</mask>
-    <mask>*.kts</mask>
     <mask>.</mask>
     <mask>*.yml</mask>
     <mask>*.java</mask>
+    <mask>*.kts</mask>
   </component>
 </application>
