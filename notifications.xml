@@ -2,6 +2,7 @@
   <component name="NotificationConfiguration">
     <notification groupId="File type conflict" displayType="NONE" />
     <notification groupId="IDE and Plugin Updates" />
+    <notification groupId="Kotlin JPS plugin" displayType="NONE" />
     <notification groupId="Spring Configuration Check" displayType="NONE" />
   </component>
 </application>
