@@ -19,7 +19,7 @@
     <mask>*.http</mask>
     <mask>.</mask>
     <mask>*.yml</mask>
-    <mask>*.java</mask>
     <mask>*.kts</mask>
+    <mask>*.java</mask>
   </component>
 </application>
