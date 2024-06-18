@@ -20,8 +20,8 @@
     <mask>*.groovy</mask>
     <mask>*.http</mask>
     <mask>.</mask>
-    <mask>*.kts</mask>
     <mask>*.yml</mask>
     <mask>*.java</mask>
+    <mask>*.kts</mask>
   </component>
 </application>
