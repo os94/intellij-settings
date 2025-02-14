@@ -1,8 +1,8 @@
 <application>
   <component name="BuildProcessSatisfactionSurveyStore">
-    <option name="daysWithGradleBuilds" value="6" />
+    <option name="daysWithGradleBuilds" value="8" />
     <option name="firstKotlinGradleBuildTime" value="1733297446" />
-    <option name="lastKotlinGradleBuildTime" value="1738917573" />
-    <option name="nextCountedGradleBuild" value="1738994334" />
+    <option name="lastKotlinGradleBuildTime" value="1739361557" />
+    <option name="nextCountedGradleBuild" value="1739447957" />
   </component>
 </application>
