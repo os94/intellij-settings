@@ -9,5 +9,6 @@
     <driver id="mysql_aurora">
       <artifact id="MariaDB Connector J" name="MariaDB Connector J" channel="MariaDB_2.X" rolling="true" use="true" version="2.7.3" />
     </driver>
+    <driver id="jdbc.RedisDriver" name="jdbc.RedisDriver" driver-class="jdbc.RedisDriver" />
   </component>
 </application>
