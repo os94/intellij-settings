@@ -15,14 +15,14 @@
     <mask>*.properties</mask>
     <mask>*.py</mask>
     <mask>*.xml</mask>
-    <mask>*.gradle</mask>
     <mask>*.groovy</mask>
     <mask>.</mask>
     <mask>*.kts</mask>
     <mask>*.sql</mask>
     <mask>*.json</mask>
     <mask>*.http</mask>
-    <mask>*.java</mask>
     <mask>*.yml</mask>
+    <mask>*.java</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
