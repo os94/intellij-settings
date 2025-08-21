@@ -22,7 +22,7 @@
     <mask>*.json</mask>
     <mask>*.gradle</mask>
     <mask>*.yml</mask>
-    <mask>*.java</mask>
     <mask>*.http</mask>
+    <mask>*.java</mask>
   </component>
 </application>
