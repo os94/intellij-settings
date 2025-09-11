@@ -18,11 +18,11 @@
     <mask>*.groovy</mask>
     <mask>.</mask>
     <mask>*.kts</mask>
-    <mask>*.sql</mask>
     <mask>*.json</mask>
     <mask>*.gradle</mask>
     <mask>*.yml</mask>
     <mask>*.http</mask>
     <mask>*.java</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
