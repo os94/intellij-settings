@@ -20,9 +20,9 @@
     <mask>*.kts</mask>
     <mask>*.json</mask>
     <mask>*.gradle</mask>
-    <mask>*.yml</mask>
     <mask>*.http</mask>
     <mask>*.java</mask>
     <mask>*.sql</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
