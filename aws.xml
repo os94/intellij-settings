@@ -1,0 +1,56 @@
+<application>
+  <component name="authManager">
+    <option name="lastLoginIdcInfo">
+      <LastLoginIdcInfo>
+        <option name="profileName" value="woowahan" />
+        <option name="region" value="ap-northeast-2" />
+        <option name="startUrl" value="https://woowahan.awsapps.com/start" />
+      </LastLoginIdcInfo>
+    </option>
+  </component>
+  <component name="aws">
+    <option name="autoUpdateFeatureNotificationShownOnce" value="true" />
+    <option name="promptedForTelemetry" value="true" />
+  </component>
+  <component name="codewhispererStates">
+    <option name="value">
+      <map>
+        <entry key="IsFirstRestartAfterQInstall" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="connectionPinningManager">
+    <option name="pinnedConnections">
+      <map>
+        <entry key="aws.q" value="sso-session:woowahan" />
+      </map>
+    </option>
+  </component>
+  <component name="meetQPage">
+    <option name="disclaimerAcknowledged" value="true" />
+    <option name="reinvent2024OnboardingCount" value="1" />
+    <option name="shouldDisplayPage" value="false" />
+  </component>
+  <component name="notificationEtag">
+    <option name="etag" value="&quot;8155ead2d484a2daeb03438d50c02e6d&quot;" />
+  </component>
+  <component name="qProfileStates">
+    <option name="connectionIdToActiveProfile">
+      <map>
+        <entry key="sso-session:woowahan">
+          <value>
+            <QRegionProfile>
+              <option name="arn" value="arn:aws:codewhisperer:us-east-1:311202023307:profile/GXGVDMXXKUEG" />
+              <option name="profileName" value="QDevProfile-us-east-1" />
+            </QRegionProfile>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="connectionIdToProfileList">
+      <map>
+        <entry key="sso-session:woowahan" value="1" />
+      </map>
+    </option>
+  </component>
+</application>
