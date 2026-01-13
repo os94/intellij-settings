@@ -12,9 +12,18 @@
     <option name="autoUpdateFeatureNotificationShownOnce" value="true" />
     <option name="promptedForTelemetry" value="true" />
   </component>
+  <component name="codewhispererSettings">
+    <option name="value">
+      <map>
+        <entry key="IsProjectContextEnabled" value="true" />
+        <entry key="IsProjectContextGpu" value="true" />
+      </map>
+    </option>
+  </component>
   <component name="codewhispererStates">
     <option name="value">
       <map>
+        <entry key="IsMonthlyQuotaForCodeScansExceeded" value="false" />
         <entry key="IsFirstRestartAfterQInstall" value="false" />
       </map>
     </option>
@@ -28,6 +37,7 @@
   </component>
   <component name="meetQPage">
     <option name="disclaimerAcknowledged" value="true" />
+    <option name="pairProgrammingAcknowledged" value="true" />
     <option name="reinvent2024OnboardingCount" value="1" />
     <option name="shouldDisplayPage" value="false" />
   </component>
