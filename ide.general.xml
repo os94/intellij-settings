@@ -8,5 +8,6 @@
     <entry key="moved.to.new.ui" value="true" source="SYSTEM" />
     <entry key="ide.experimental.ui" value="true" source="SYSTEM" />
     <entry key="ide.mac.transparentTitleBarAppearance" value="true" source="SYSTEM" />
+    <entry key="maven.packagesearch.enabled" value="false" source="MANAGER" />
   </component>
 </application>
