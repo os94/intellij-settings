@@ -23,6 +23,7 @@
   <component name="codewhispererStates">
     <option name="value">
       <map>
+        <entry key="IsAutoCodeScanEnabled" value="false" />
         <entry key="IsMonthlyQuotaForCodeScansExceeded" value="false" />
         <entry key="IsFirstRestartAfterQInstall" value="false" />
       </map>
