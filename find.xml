@@ -5,6 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.kts" />
     <mask>*.css</mask>
     <mask>*.jsp</mask>
     <mask>*.js시</mask>
@@ -17,12 +18,12 @@
     <mask>*.xml</mask>
     <mask>*.groovy</mask>
     <mask>.</mask>
-    <mask>*.kts</mask>
     <mask>*.json</mask>
     <mask>*.gradle</mask>
     <mask>*.http</mask>
     <mask>*.sql</mask>
     <mask>*.java</mask>
     <mask>*.yml</mask>
+    <mask>*.kts</mask>
   </component>
 </application>
