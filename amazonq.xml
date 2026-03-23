@@ -7,6 +7,9 @@
       </map>
     </option>
   </component>
+  <component name="meetQPage">
+    <option name="disclaimerAcknowledged" value="true" />
+  </component>
   <component name="q">
     <option name="autoUpdateFeatureNotificationShownOnce" value="true" />
     <option name="promptedForTelemetry" value="true" />
