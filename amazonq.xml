@@ -1,0 +1,36 @@
+<application>
+  <component name="codewhispererStates">
+    <option name="value">
+      <map>
+        <entry key="IsMonthlyQuotaForCodeScansExceeded" value="false" />
+        <entry key="IsFirstRestartAfterQInstall" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="q">
+    <option name="autoUpdateFeatureNotificationShownOnce" value="true" />
+    <option name="promptedForTelemetry" value="true" />
+  </component>
+  <component name="qNotificationEtag">
+    <option name="etag" value="&quot;8155ead2d484a2daeb03438d50c02e6d&quot;" />
+  </component>
+  <component name="qProfileStates">
+    <option name="connectionIdToActiveProfile">
+      <map>
+        <entry key="sso-session:woowahan">
+          <value>
+            <QRegionProfile>
+              <option name="arn" value="arn:aws:codewhisperer:us-east-1:311202023307:profile/GXGVDMXXKUEG" />
+              <option name="profileName" value="QDevProfile-us-east-1" />
+            </QRegionProfile>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="connectionIdToProfileList">
+      <map>
+        <entry key="sso-session:woowahan" value="1" />
+      </map>
+    </option>
+  </component>
+</application>
