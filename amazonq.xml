@@ -4,11 +4,13 @@
       <map>
         <entry key="IsMonthlyQuotaForCodeScansExceeded" value="false" />
         <entry key="IsFirstRestartAfterQInstall" value="false" />
+        <entry key="SessionConfigurationMessageShown" value="true" />
       </map>
     </option>
   </component>
   <component name="meetQPage">
     <option name="disclaimerAcknowledged" value="true" />
+    <option name="pairProgrammingAcknowledged" value="true" />
   </component>
   <component name="q">
     <option name="autoUpdateFeatureNotificationShownOnce" value="true" />
