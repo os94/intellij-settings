@@ -22,8 +22,8 @@
     <mask>*.sql</mask>
     <mask>*.kts</mask>
     <mask>*.gradle</mask>
+    <mask>*.kt</mask>
     <mask>*.java</mask>
     <mask>*.yml</mask>
-    <mask>*.kt</mask>
   </component>
 </application>
