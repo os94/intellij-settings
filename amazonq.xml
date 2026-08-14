@@ -4,6 +4,7 @@
       <map>
         <entry key="IsMonthlyQuotaForCodeScansExceeded" value="false" />
         <entry key="IsFirstRestartAfterQInstall" value="false" />
+        <entry key="ConnectionExpiredDoNotShowAgain" value="true" />
         <entry key="SessionConfigurationMessageShown" value="true" />
       </map>
     </option>
@@ -15,6 +16,16 @@
   <component name="q">
     <option name="autoUpdateFeatureNotificationShownOnce" value="true" />
     <option name="promptedForTelemetry" value="true" />
+  </component>
+  <component name="qNotificationDismissals">
+    <option name="dismissedNotifications">
+      <set>
+        <DismissedNotification>
+          <option name="dismissedAt" value="1786690393661" />
+          <option name="id" value="e9712dbf-b075-402e-a69d-c70903935e52" />
+        </DismissedNotification>
+      </set>
+    </option>
   </component>
   <component name="qNotificationEtag">
     <option name="etag" value="&quot;0fb54ba337f797980efcc1cc2e12ab3c&quot;" />
