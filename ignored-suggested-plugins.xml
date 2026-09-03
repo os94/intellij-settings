@@ -13,6 +13,7 @@
         <option value="com.intellij.wiremock" />
         <option value="com.intellij.reactivestreams" />
         <option value="com.intellij.spring" />
+        <option value="intellij.vitejs" />
       </list>
     </option>
   </component>
